@@ -1,0 +1,11 @@
+OUTPUT 1:
+Enter Valid Employee ID : 
+
+Emp Id.	 Emp Name	Department	Designation	   DA
+1004 	  Wxyz 		Front Desk 		Receptionist 	31000.0
+
+OUTPUT 2:
+Enter Valid Employee ID : 
+
+Emp Id.	 Emp Name	Department	Designation	   DA
+1006 	  Stuv 		Manufacturing 		Engineer 	47600.0

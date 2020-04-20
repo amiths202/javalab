@@ -1,0 +1,76 @@
+main
+childthread:Thread[one,5,main]
+childthread:Thread[two,5,main]
+one
+childthread:Thread[three,5,main]
+two
+childthread:Thread[four,5,main]
+three
+childthread:Thread[five,5,main]
+four
+five
+First Thread is Alive? : true
+Second Thread is Alive? : true
+Third Thread is Alive? : true
+Fourth Thread is Alive? : true
+Fifth Thread is Alive? : true
+waiting for Threads to complete
+Sum of 1-10 : 105
+Sum of 10-20 : 105
+Sum of 20-30 : 119
+Sum of 30-40 : 141
+Sum of 40-50 : 173
+Sum of 1-10 : 215
+Sum of 20-30 : 218
+Sum of 30-40 : 241
+Sum of 40-50 : 241
+Sum of 10-20 : 215
+Sum of 1-10 : 330
+Sum of 20-30 : 330
+Sum of 40-50 : 334
+Sum of 30-40 : 334
+Sum of 10-20 : 402
+Sum of 1-10 : 450
+Sum of 20-30 : 450
+Sum of 40-50 : 455
+Sum of 30-40 : 525
+Sum of 10-20 : 560
+Sum of 1-10 : 575
+Sum of 20-30 : 575
+Sum of 40-50 : 581
+Sum of 10-20 : 607
+Sum of 30-40 : 607
+Sum of 1-10 : 705
+Sum of 20-30 : 712
+Sum of 40-50 : 739
+Sum of 10-20 : 786
+Sum of 30-40 : 803
+Sum of 1-10 : 840
+Sum of 20-30 : 848
+Sum of 40-50 : 876
+Sum of 10-20 : 924
+Sum of 30-40 : 942
+Sum of 1-10 : 980
+Sum of 20-30 : 980
+Sum of 40-50 : 1018
+Sum of 10-20 : 1067
+Sum of 30-40 : 1086
+Sum of 1-10 : 1125
+Sum of 20-30 : 1125
+Sum of 40-50 : 1165
+Sum of 10-20 : 1165
+Sum of 30-40 : 1215
+Sum of 1-10 : 1275
+Sum of 20-30 : 1275
+Sum of 40-50 : 1275
+Sum of 10-20 : 1275
+Sum of 30-40 : 1275
+Total sum is : 1275
+First Thread is Alive? :false
+Second Thread is Alive? :false
+Third Thread is Alive? :false
+Fourth Thread is Alive? :false
+Fifth Thread is Alive? :false
+Main thread is interupted 
+Whole process took 10 seconds
+Main thread is exiting

@@ -1,0 +1,131 @@
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+4
+Employee deatils are as follows...
+Registered successfully
+Mon Apr 20 11:26:58 IST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Connection successfull
+
+Name : abc	Age : 25	Dept :ISE	Salary :25000.0
+Name : Amit	Age : 22	Dept :ISE	Salary :20000.0
+Name : pqr	Age : 23	Dept :ISE	Salary :23000.0
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+1
+Enter the Employee Name : 
+Suraj
+Enter the Age : 
+24
+Enter the Dept : 
+CSE
+Enter the Salary : 
+26000
+Registered successfully
+Mon Apr 20 11:27:34 IST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Connection successfull
+
+Employee added successfully
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+3
+Enter the Employee name to display its attributes : 
+Suraj
+Employee details...
+Registered successfully
+Mon Apr 20 11:27:47 IST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Connection successfull
+
+Name : Suraj	Age : 24	Dept :CSE	Salary :26000.0
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+4
+Employee deatils are as follows...
+Registered successfully
+Mon Apr 20 11:27:58 IST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Connection successfull
+
+Name : abc	Age : 25	Dept :ISE	Salary :25000.0
+Name : Amit	Age : 22	Dept :ISE	Salary :20000.0
+Name : pqr	Age : 23	Dept :ISE	Salary :23000.0
+Name : Suraj	Age : 24	Dept :CSE	Salary :26000.0
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+2
+Enter the employee name : 
+pqr
+Registered successfully
+Mon Apr 20 11:28:14 IST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Connection successfull
+
+Employee deleeted successfully
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+3
+Enter the Employee name to display its attributes : 
+pqr
+Employee details...
+Registered successfully
+Mon Apr 20 11:28:38 IST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Connection successfull
+
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+4
+Employee deatils are as follows...
+Registered successfully
+Mon Apr 20 11:28:45 IST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Connection successfull
+
+Name : abc	Age : 25	Dept :ISE	Salary :25000.0
+Name : Amit	Age : 22	Dept :ISE	Salary :20000.0
+Name : Suraj	Age : 24	Dept :CSE	Salary :26000.0
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+5

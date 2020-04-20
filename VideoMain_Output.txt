@@ -1,0 +1,94 @@
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+1
+Enter the name of the movie:Parasite
+Enter the status of the movie(True/False):True
+Enter the ratings for the movie(0-5):5
+Library Initialized
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+1
+Enter the name of the movie:Forgotten
+Enter the status of the movie(True/False):True
+Enter the ratings for the movie(0-5):4.2
+Library Initialized
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+2
+Movie : Parasite  Status : true  Rating 5.0
+Movie : Forgotten  Status : true  Rating 4.2
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+3
+Enter the movie you want to rent.Parasite
+Rent out successfull
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+2
+Movie : Parasite  Status : false  Rating 5.0
+Movie : Forgotten  Status : true  Rating 4.2
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+4
+Enter the name and the ratings of the movie
+Parasite 5
+5
+Requested Movie not rented out
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+3
+Enter the movie you want to rent.Parasite
+Sorry!! Not Available
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+4
+Enter the name and the ratings of the movie
+Parasite
+5
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
+2
+Movie : Parasite  Status : true  Rating 5.0
+Movie : Forgotten  Status : true  Rating 4.2
+%%%%%%%% VIDEO LIBRARY CENTER %%%%%%%%
+1.ADD MOVIES
+2.DISPLAY MOVIES
+3.RENT OUT
+4.COLLECT BACK 
+PLEASE ENTER YOUR OPTION
